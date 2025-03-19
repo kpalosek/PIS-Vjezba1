@@ -10,4 +10,4 @@ def nova_funkcija():
 # Ovo je moj komentar - PetarVukorepa
 
 def nova_metoda():
-    return "Ovo je nova metoda 3."
+    return "Ovo je nova metoda 2."
